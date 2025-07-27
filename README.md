@@ -12,8 +12,7 @@ There are 3 cards :
 
 - From MP3s to English and French words : sounds of bee ? -> abeille + bee
 
-![Basic-Triptych](https://github.com/user-attachments/assets/e8e3452c-0768-421c-a406-11ea14bf9c24)
-
+![Basic-Triptych](https://github.com/user-attachments/assets/43e52f9e-0593-4b56-b5e8-623e171ca813)
 
 You can easily generate several MP3s at once : download the AwessomeTTS add-on and use the Google Translate UK or US.
 
