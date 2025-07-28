@@ -14,7 +14,7 @@ There are 3 cards :
 
 ![Basic-Triptych](https://github.com/user-attachments/assets/43e52f9e-0593-4b56-b5e8-623e171ca813)
 
-You can easily generate several MP3s at once : download the AwessomeTTS add-on and use the Google Translate UK or US.
+You can easily generate several MP3s at once : download the [AwesomeTTS add-on](https://ankiweb.net/shared/info/1436550454) and use the Google Translate UK or US.
 
 If you want to change languages, all you need to do is change the code.
 
