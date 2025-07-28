@@ -1,6 +1,6 @@
 # Triptych Spelling UK-US
 
-Template Flashcards when British and Spelling words differ : grey vs gray.
+Template Flashcards when British and American words or spellings differ : grey vs gray, colour vs color
 
 With British & American MP3s
 
