@@ -1,4 +1,4 @@
-# Triptych Irregual PLural Nouns
+# Triptych Irregual Plural Nouns
 
 This template card enables you to learn English irregular plural nouns with British and American MP3.
 
