@@ -1,12 +1,22 @@
-# Anki-Templates-for-Foreign-Language-Learning
+# Triptych Double English
 
-Here is my **collection** of Anki Template Flashcards for Foreign Language Learning.
-| Name | Description | Preview |
-| :---: | :---: | :---: |
-| [Basic-Triptych](https://github.com/nidandre/Anki-Templates-for-Foreign-Language-Learning/tree/Basic-Triptych) | To learn vocabulary<br>with British & American MP3s | <img src="https://github.com/user-attachments/assets/43e52f9e-0593-4b56-b5e8-623e171ca813" alt="Basic-Triptych" width="200" /> |
-| [Triptych Irregular<br>Plural Nouns](https://github.com/nidandre/Anki-Templates-for-Foreign-Language-Learning/blob/Triptych-Irregular-Plural-Nouns) | For Irregular Plural Nouns<br>with British & American MP3s | <img width="200" height="200" alt="Sorting Media 1" src="https://github.com/user-attachments/assets/0649426e-e5db-4d8e-97f4-f40bc00890ac" /> |
-|  [Triptych Spelling UK-US](https://github.com/nidandre/Anki-Templates-for-Foreign-Language-Learning/tree/Triptych-Spelling-UK-US) | When British and Spelling words differ<br>with British & American MP3s | <img width="200" height="200" alt="Sorting Media 1" src="https://github.com/user-attachments/assets/3c4ea7de-1760-446a-b553-47fbaa4086bd" /> | 
-| [Sorting MP3](https://github.com/nidandre/Anki-Templates-for-Foreign-Language-Learning/tree/Sorting-with-Media) | Sorting MP3s<br>Only Desktop yet ! | <img width="200" height="200" alt="Sorting Media 1" src="https://github.com/user-attachments/assets/817b4656-4cb8-4690-8876-0ba6d91500ee" /><img width="200" height="200" alt="Sorting Media 2" src="https://github.com/user-attachments/assets/3f5c222a-cde5-4a5e-a14d-0a4cd2126b8c" />
+Template Flashcard when a French word corresponds to two words in English.
 
-To generate several MP3s at once, use [AwesomeTTS add-on](https://ankiweb.net/shared/info/1436550454) in Anki.
+For instance, "il y a ..." = "there is" or "there are"
 
+The flashcard is made up of 5 cards including British and American MP3s :
+
+- **Card 1** : **French Word** --> 2 words in English in MP3s
+- **Card 2** : **English Word 1** --> French Word + Reminder English Word 2 with MP3s
+- **Card 3** : **MP3s 1** --> English Word 1 + French Word + Reminder English Word 2 with MP3s
+- **Card 4** : **English Word 2** --> French Word + Reminder English Word 1 with MP3s
+- **Card 5** : **MP3s 2** --> English Word 2 + French Word + Reminder English Word 1 with MP3s
+
+![Triptych Double EN](https://github.com/user-attachments/assets/dbebff6c-ec69-4e27-bbab-1595b56720ba)
+
+
+You can easily generate several MP3s at once : download the [AwesomeTTS add-on](https://ankiweb.net/shared/info/1436550454) and use the Google Translate UK or US.
+
+If you want to change languages, all you need to do is change the code.
+
+Have fun !
