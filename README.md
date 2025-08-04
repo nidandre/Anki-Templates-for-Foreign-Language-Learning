@@ -1,5 +1,7 @@
 # Anki-Templates-for-Foreign-Language-Learning
 
+If you want to <a href="https://www.buymeacoffee.com/nidandre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>, don't hesitate !
+
 Here is my **collection** of Anki Template Flashcards for Foreign Language Learning.
 | Name | Description | Preview |
 | :---: | :---: | :---: |
