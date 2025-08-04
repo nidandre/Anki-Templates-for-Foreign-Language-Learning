@@ -1,5 +1,7 @@
 # Triptych Double Words
 
+If you want to <a href="https://www.buymeacoffee.com/nidandre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>, don't hesitate !
+
 **2 Anki template Flashcards with British and American MP3s**
 
 - when a French word corresponds to two words in English
@@ -29,6 +31,6 @@ The second flashcard is made up of 4 cards :
 
 You can easily generate several MP3s at once : download the [AwesomeTTS add-on](https://ankiweb.net/shared/info/1436550454) and use the Google Translate UK or US.
 
-If you want to change languages, all you need to do is change the code.
+If you want to change languages, all you need to do is change the code. Otherwise, contact me.
 
 Have fun !
