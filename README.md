@@ -1,5 +1,7 @@
 # Sorting with Media
 
+If you want to <a href="https://www.buymeacoffee.com/nidandre" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 109px !important;" ></a>, don't hesitate !
+
 Here are my 2 Anki flashcard templates to sort Media : text, mp3 or image.
 
 Be careful the drag template works on AnkiDesktop and **not on Ankidroid**!
