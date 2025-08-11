@@ -1,51 +1,49 @@
-		.card {
-    	font-family: OpenDyslexic;
-    	font-size: 26px;
-    	text-align: center;
-    	color: black;
-     background-color: white;
+.card {
+    font-family: OpenDyslexic;
+    font-size: 26px;
+    text-align: center;
+    color: black;
+    background-color: white;
 }
-    .term img {
-        max-width: 150px;
-        max-height: 100px;
-        height: auto;
-        width: auto;
-    }
-
-    .term audio {
-        width: 100px;
-    }
-    .body {
-            margin: 0;
-            padding: 0;
-            transition: margin-top 1.3s;
-        }
-        .settings-button {
-            position: fixed;
-            top: 10px;
-            right: 10px;
-            color: orange;
-            cursor: pointer;
-            background: none;
-            border: none;
-            font-size: 16px;
-            padding: 5px 10px;
-            text-align: right;
-        }
-        .settings-content {
-            display: none;
-            padding: 10px;
-            background-color: white;
-            margin-top: 20px; /* Adjust based on the button height
-						
-        }   
 .term img {
-        max-width: 150px;
-        max-height: 100px;
-        height: auto;
-        width: auto;
-    }
-
-    .term audio {
-        width: 100px;
-    }
+    max-width: 150px;
+    max-height: 100px;
+    height: auto;
+    width: auto;
+}
+.term audio {
+    width: 100px;
+}
+.body {
+    margin: 0;
+    padding: 0;
+    transition: margin-top 1.3s;
+}
+.settings-button {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    color: orange;
+    cursor: pointer;
+    background: none;
+    border: none;
+    font-size: 16px;
+    padding: 5px 10px;
+    text-align: right;
+}
+.settings-content {
+    display: none;
+    padding: 10px;
+    background-color: white;
+    margin-top: 20px; /* Adjust based on the button height
+}   
+.term img {
+    max-width: 150px;
+    max-height: 100px;
+    height: auto;
+    width: auto;
+}
+.term audio {
+    width: 100px;
+}
+    
